@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Net Crypto in Android</string>
+	<string name="prompt_hash">Hash</string>
+	<string name="prompt_pin">Pin</string>
+	<string name="action_sign_in">Check</string>
+	<string name="error_incorrect_pin">This pin is incorrect</string>
+	<string name="error_field_required">This field is required</string>
+	<string name="message_initial">Enter HAS and PIN and press the check button</string>
+	<string name="message_OK">OK</string>
+</resources>
